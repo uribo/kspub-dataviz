@@ -12,6 +12,8 @@
 | p.171 図5.12のためのコード | `geom_jitter(widt = 0.15)` | `geom_jitter(width = 0.15)` | [#4](https://github.com/uribo/kspub-dataviz/issues/4) | | | 
 | p.196 図5.26 | 図5.26として掲載の図 | 図5.26コード実行時に出力される図（未掲載） | [#5](https://github.com/uribo/kspub-dataviz/issues/5) | | |  
 | p.202 図6.1 legend | 直線を追加 | 回帰直線・回帰曲線を追加 | [#8](https://github.com/uribo/kspub-dataviz/issues/8) | | |  
+| p.241-242 図6.12, 図6.13| 図の誤り 年代表記が左揃えにならない | 図の誤り 年代表記が左揃えにならない | [#９](https://github.com/uribo/kspub-dataviz/issues/9) | 要原著者への確認 | |  
+| p.241-242 図6.12, 図6.13| タイトルの日本語化・サブタイトル抜け |コード内: title = "Educational Attainment by Race" → title = "人種別の教育歴",  コード内サブタイトルママ,  図内タイトル: 人種別の教育歴,   サブタイトル: GSS 1976-2016  へ修正| [#9](https://github.com/uribo/kspub-dataviz/issues/9) | | |  
 | p.285 脚注 | colorblinder | colorblindr | [#1](https://github.com/uribo/kspub-dataviz/issues/1) | colorblindrパッケージはCRAN未登録(2020年2月3日時点)。利用する際はGitHubの[リポジトリ](https://github.com/clauswilke/colorblindr)からのインストールが必要。 | |
 | p.298 本文 | geom_deinsity_ridges()関数 | geom_density_ridges()関数 | [#4](https://github.com/uribo/kspub-dataviz/issues/4) | | |
 | p.299 本文 | 1.5超から4.1超 | 1.5兆から4.1兆 | [#4](https://github.com/uribo/kspub-dataviz/issues/4) | | |
