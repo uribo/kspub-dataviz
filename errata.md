@@ -5,7 +5,7 @@
 
 | 該当箇所 | 誤 | 正 | issue | 備考 | 対応 |
 |:---------|----|----|----|:-----|:-----|
-| p.57　本文 | 面責 | 面積 | [#１１](https://github.com/uribo/kspub-dataviz/issues/11) | | |
+| p.57　本文 | 面責 | 面積 | [#11](https://github.com/uribo/kspub-dataviz/issues/11) | | |
 | p.109, 110, 114 (図3.8, 図3.9, 図3.13) | コードが`geom_smooth(method = "gam")`の記述であるのに対して、描画される図では直線が引かれる。 | **図の誤り**。コードを実行するとGAM平滑化曲線が描画される。 | [#3](https://github.com/uribo/kspub-dataviz/issues/3) | ただし原著でも直線のため、原著者への確認中。 | | 
 | p.139 タイトル | 回りくどく度数分布表を描いてみる | 度数分布を回りくどく描いてみる | [#2](https://github.com/uribo/kspub-dataviz/issues/2) | | |
 | p.166-7 5.6 | 図とコードの不一致 | Web版原著のコードと一致する図への差し替え予定 | [#6](https://github.com/uribo/kspub-dataviz/issues/6) | | |
