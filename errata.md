@@ -24,4 +24,4 @@
 | p.298 本文 | geom_deinsity_ridges()関数 | geom_density_ridges()関数 | [#4](https://github.com/uribo/kspub-dataviz/issues/4) | | 4刷にて修正予定 |
 | p.299 本文 | 1.5超から4.1超 | 1.5兆から4.1兆 | [#4](https://github.com/uribo/kspub-dataviz/issues/4) | | 4刷にて修正予定 |
 | p.302 本文 | namest_to引数 | names_to引数 | [#4](https://github.com/uribo/kspub-dataviz/issues/4) | | 4刷にて修正予定 |
-| p.338-339 図A.7, 図A.8 コード | aes(x = {{x}}, y = {{y}}) | aes_string(x = x, y = y) | [#17](https://github.com/uribo/kspub-dataviz/issues/17) | パッケージの更新に伴うコードの変更 | 4刷にて修正予定 |
+| p.338-339 図A.7, 図A.8 コード | aes(x = {{x}}, y = {{y}}) | aes_string(x = x, y = y) | [#17](https://github.com/uribo/kspub-dataviz/issues/17) | | 4刷にて修正予定 |
