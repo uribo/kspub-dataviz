@@ -7,5 +7,6 @@
 
 ## 補足情報
 
-- 2021-07-09: 重版（2刷）となりました。[現時点で正誤表掲載](https://github.com/uribo/kspub-dataviz/blob/26a82ca2a463d9831a15a953769dfc4b1bdfeab5/errata.md)の修正箇所については2刷にて反映いたします。
+- 2022-06-02 第5刷となりました。[現時点で正誤表掲載](https://github.com/uribo/kspub-dataviz/blob/57131f3a36a87bb022c9da4ba701a762b326387f/errata.md)の修正箇所については5刷にて反映いたします。
+- 2021-07-09: 重版（2刷）となりました。
 
